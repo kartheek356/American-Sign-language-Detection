@@ -1,1 +1,0 @@
-# American-Sign-language-Detection
