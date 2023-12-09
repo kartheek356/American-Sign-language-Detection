@@ -1,4 +1,4 @@
-* `input` folder contains the the original data from the [Kaggle website] as well as the preprocessed images that are used for training.
+* `input` folder contains the the original data from the [https://www.kaggle.com/datasets/grassknoted/asl-alphabet] as well as the preprocessed images that are used for training.
 
 * `input/preprocessed_image` contains the resized images that are used for training. The total images in the original dataset is 87000. The `input/preprocessed_image` may contain 87000 or a subset of images depending upon the number of images preprocessed. These many images will be used for training.
 
